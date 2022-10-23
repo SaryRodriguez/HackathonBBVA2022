@@ -45,10 +45,15 @@ https://apps.powerapps.com/play/28882c1e-ff80-45d1-bf86-a48809a756e6?tenantId=f1
 Ojo: Esta powerApp solo la pueden utilizar personas internas a la organización.
 
 8.	Funciones de PowerApps:
+9.	
   a.	Clic en botón entrar y veremos todos los registros que no se han completado.
+  
   b.	Se puede filtrar por propensidad o hacer la búsqueda por ID.
+  
   c.	Se puede ver la información de cada cliente y como ejecutivo, indicar que esa persona le dará seguimiento para el cierre del proceso.
+  
   d.	Del mismo modo, se podrá indicar cuando ese cliente ya haya cerrado el proceso.
+  
   e.	Desde aquí el ejecutivo puede dar de alta un nuevo cliente y desencadenar los flujos que vimos anteriormente.
   
 9.	Los flujos de mensaje diaria se ejecutaran cada mañana mandando un correo a todos los miembros del call center con el vinculo a la PowerApp.
