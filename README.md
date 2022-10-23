@@ -9,12 +9,14 @@
     a.	Mandar un whatsapp con la palabra: "join car-level" al numero +1 (415) 523-8886
     
 3.	En el formulario de Microsoft Forms llenar datos y en la pregunta de "¿Continuar con la simulación?" seleccionar "Si"
+
     a.	Si el cliente es menor de 60 años: el sistema mandará un whatsApp en automático al número que se registró y también se mandará automáticamente un correo electrónico al cliente.
+    
     b.	Si el cliente tiene 60 años o más: el sistema mandará un correo a todo el call center con una notificación de que un nuevo cliente prospecto fue creado.
     
 4.	Mostrar el mensaje de recordatorio diario. Asunto “Mensaje Diario” con vinculo a la PowerApp.
 
-5.	Decirle a los moderadores que deben iniciar en una pestaña de incognito abrir portal.office.com para poder ver los correos
+5.	Para probar nuestra app los moderadores  deben iniciar en una pestaña de incognito abrir portal.office.com para poder ver los correos y acceder a la APP
 
 6.	Iniciar sesión con alguna de las siguientes cuentas:
 
