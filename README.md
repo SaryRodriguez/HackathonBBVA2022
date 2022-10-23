@@ -14,7 +14,7 @@
     
 4.	Mostrar el mensaje de recordatorio diario. Asunto “Mensaje Diario” con vinculo a la PowerApp.
 
-5.	Decirle a los moderadores que deben iniciar en una pestaña de incognito abrir portal.office.com
+5.	Decirle a los moderadores que deben iniciar en una pestaña de incognito abrir portal.office.com para poder ver los correos
 
 6.	Iniciar sesión con alguna de las siguientes cuentas:
 
@@ -50,4 +50,5 @@ Ojo: Esta powerApp solo la pueden utilizar personas internas a la organización.
   e.	Desde aquí el ejecutivo puede dar de alta un nuevo cliente y desencadenar los flujos que vimos anteriormente.
   
 9.	Los flujos de mensaje diaria se ejecutaran cada mañana mandando un correo a todos los miembros del call center con el vinculo a la PowerApp.
+
 10.	Mensaje de WhatsApp recurrente al cliente. No se puede hacer una demostración, dado que son tantos los registros, y pocos los números para hacer pruebas, que saturaríamos los números de mas de 2000 mensajes, pero es una funcionalidad que puede implementarse en un ambiente productivo.
